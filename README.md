@@ -1,4 +1,4 @@
-# Institutional Trading under Geopolitical & Policy Uncertainty (Taiwan)
+# Institutional Trading under Uncertainty (Taiwan)
 
 This repository contains the code, configuration files, and documentation for my thesis:
 
