@@ -1,6 +1,6 @@
 # Institutional Trading under Geopolitical & Policy Uncertainty (Taiwan)
 
-This repository contains the code, configuration files, and documentation for my Master's thesis:
+This repository contains the code, configuration files, and documentation for my thesis:
 
 > **The Impact of Geopolitical Risk and Economic Policy Uncertainty on Institutional Trading Behavior: Evidence from the Taiwan Stock Market**  
 > Shu-Yen (Susan) Lin, National Taiwan University, 2025  
